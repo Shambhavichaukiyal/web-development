@@ -1,0 +1,19 @@
+.i{
+    background-color: red;
+    display: inline-block;
+    height: 200px;
+    width:200px;
+
+}
+.ii{
+    background-color: green;
+    display: inline-block;
+    height: 200px;
+    width:200px;
+}
+.iii{
+    background-color: blue;
+    display: inline-block;
+    height: 200px;
+    width:200px;
+}

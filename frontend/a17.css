@@ -1,0 +1,30 @@
+.hi{
+    height: 200px;
+    width:200px;
+    padding: 20px;
+    background-color:cadetblue;
+    border-width:10px;;
+   
+    border:solid;
+    border-color: black;
+
+}
+
+.hii{
+    height: 200px;
+    width:200px;
+    background-color:gold;
+    border-width:20px 10px;
+    
+    margin-left:240px ;
+    border:solid black;
+}
+.hiii{
+    height: 200px;
+    width:200px;
+    background-color:indianred;
+    padding: 20px;
+    border-color: black;
+    border-width: 10px;
+    border: solid;
+}

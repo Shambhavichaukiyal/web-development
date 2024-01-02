@@ -1,0 +1,35 @@
+.h{
+    background-color:#CE1126;
+    height: 600px;
+    width:900px;
+    position:relative;
+}
+.hi{
+    background-color:#002868;
+    height: 300px;
+    width:900px;
+   position:absolute
+    
+}
+.hii{
+    background-color: white;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    position:relative;
+    left:35%;
+ 
+}
+.i{
+    position:relative;
+    font-size: 80px;
+    color:white;
+    text-align:center ;
+  
+}
+.ii{
+    position:relative;
+    font-size: 80px;
+    color:black;
+    text-align:center ;
+}

@@ -1,0 +1,27 @@
+.i{
+    display: inline-block;
+    width:50%;
+    height:50%;
+    background-color: bisque;
+    float: left;
+}
+
+.ii{
+    display:inline-block ;
+    width:40%;
+    background-color:aquamarine;
+    float:right;
+}
+.p{
+    font-size: 2em;
+    float:right;
+}
+
+img{
+    float:left;
+}
+
+footer{
+    clear:both;
+    background-color: blue;
+}

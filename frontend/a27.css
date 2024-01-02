@@ -1,0 +1,9 @@
+.container{
+   display: flex;
+   background-color: bisque;
+   border: 20px solid;
+   border-color: blanchedalmond;
+}
+.container > * {
+    flex-basis:500px;
+}

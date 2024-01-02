@@ -1,0 +1,22 @@
+@media(min-width:300px){
+    .i{
+        display:inline-block;
+        width:40%;
+    }
+    .ii{
+        display:inline-block;
+        width:40%;
+        float:right;
+    }
+    .img{
+        float:left;
+    }}
+span{
+    color: purple;
+}
+a{
+    color:rgb(1, 78, 18);
+}
+body{
+    background-color:powderblue;
+}
