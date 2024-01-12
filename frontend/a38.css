@@ -1,0 +1,23 @@
+#title{
+   
+ 
+    font-size: xx-large;
+    font-family: cursive;
+    color: #756AB6;
+   
+  
+  
+}
+
+body{
+background-color:#FFE5E5;
+}
+.ti{
+    display: block;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.container{
+    height: 600px;
+    width:748px;
+    display: grid;
+    grid-template-columns: 198px 345px 200px 200px;
+    grid-template-rows: 198px 345px 200px 50px;
+}
+.i{
+    grid-row:span 1;
+    border: solid;
+    border-width: 0 10px 10px 0;
+
+}
+.ii{
+    grid-column: span 3;
+    grid-row: span 2;
+    border: solid;
+    border-width:0 0 10px 0;
+}
+.iii{
+    grid-row:span 1;
+    border: solid;
+    border-width: 0 10px 10px 0;
+    
+
+}
+.iiii{
+    border: solid;
+    border-width: 0 10px 0 0 ;
+    
+}
+.iiiii{
+    border: solid;
+    border-width: 0 10px 0 0 ;
+    
+}
+.iiiiii{
+   
+     height: 50px;
+     border: solid;
+     border-width: 0 0 10px 0;
+   
+}
+.iiiiiii{
+border: solid;
+border-width: 0 0 10px 0  ;
+height: 50px;
+
+
+}
