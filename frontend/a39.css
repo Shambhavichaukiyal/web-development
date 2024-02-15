@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(152, 147, 147);
+}
+h1{
+    font-size:100px;
+    text-align: center;
+    color:  #4ECCA3;
+}
+
+.i{
+    margin-left: 300px;
+    color:  #4ECCA3;
+    display:inline-block;
+    border: 40px;
+    border-style: solid;
+    border-color:rgb(152, 147, 147);
+     
+}
+.ii{
+    margin-left: 300px;
+    display:inline-block;
+    color:  #4ECCA3;
+}
